@@ -1,0 +1,16 @@
+# --- Frontend (Angular) ---
+**/node_modules/
+**/.angular/
+**/dist/
+
+# --- Backend (Django) ---
+**/__pycache__/
+*.pyc
+**/.venv/
+**/env/
+**/venv/
+**/.env
+
+# --- OS & IDE ---
+.DS_Store
+.vscode/
